@@ -1,0 +1,143 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Amatic SC', serif;
+  font-size: 200%;
+
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', serif;
+  line-height: inherit;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'East Sea Dokdo', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  line-height: inherit;
+  padding-bottom: 10px;
+
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'East Sea Dokdo', serif;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+  color: white;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.titel {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.mountain{
+  margin-bottom: 0;
+}
+
+.top-cloud {
+  right: 300px;
+  top: 40px;
+  position: absolute;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.painting{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.plaint{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.happy{
+  width: 30%;
+  margin: 40px auto 60px auto;
+}
+
+.butt{
+  width: 40%;
+  margin: auto;
+}
+
+.bottom-container{
+  margin-top: 100px;
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.BUTTON_PBA {
+   background: #11CDD4;
+   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+   background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   color: #FFFFFF;
+   font-family: 'East Sea Dokdo', serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 40px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_PBA:hover {
+   border: solid #337FED 1px;
+   background: #30E3CB;
+   background-image: -webkit-linear-gradient(top, #30E3CB, #2B4AD4);
+   background-image: -moz-linear-gradient(top, #30E3CB, #2B4AD4);
+   background-image: -ms-linear-gradient(top, #30E3CB, #2B4AD4);
+   background-image: -o-linear-gradient(top, #30E3CB, #2B4AD4);
+   background-image: -webkit-gradient(to bottom, #30E3CB, #2B4AD4);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
